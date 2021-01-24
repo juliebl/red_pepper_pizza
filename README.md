@@ -1,1 +1,2 @@
-# Website for MA2 in HTML and CSS module at Noroff Front-end development
+# Red Pepper Pizza 
+Website for MA2 in HTML and CSS module at Noroff Front-end development
